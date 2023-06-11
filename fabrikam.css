@@ -8,8 +8,11 @@ header.dashboard-header {
 }
 
 header.dashboard-header nav #header {
-  background-size: 250px 50px !important;
-  max-height: 50px !important;
-  display: block;
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+  width: 1500px;
+  aspect-ratio: auto 1500 / 334;
+  height: 334px;
   background-image: url("https://raw.githubusercontent.com/hougie/hougie.github.io/main/sym-logo.png") !important;
 }
