@@ -8,6 +8,6 @@ header.dashboard-header {
 }
 
 header.dashboard-header nav #header {
-  background-size: 200px 40px !important;
+  background-size: contain !important;
   background-image: url("https://raw.githubusercontent.com/hougie/hougie.github.io/main/sym-logo.png") !important;
 }
