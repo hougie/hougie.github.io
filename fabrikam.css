@@ -11,3 +11,8 @@ header.dashboard-header nav #header {
   background-size: 50px 40px !important;
   background-image: url("https://raw.githubusercontent.com/hougie/hougie.github.io/main/symmetry-logo.svg") !important;
 }
+
+a.navbar-brand[href="https://manage.auth0.com"] {
+  /* Update href to Support Site */
+  href: "https://symmetry14781682618768.zendesk.com";
+}
