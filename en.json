@@ -91,7 +91,7 @@
   "logsRefreshButtonText": "Refresh",
   "logsLoadMoreButtonText": "Load More",
 
-  "requiredFieldLabel": "(required)",
+  "requiredFieldLabel": "*",
   "requiredErrorText": "required",
 
   "errorTitle": "Oh, snap!",
