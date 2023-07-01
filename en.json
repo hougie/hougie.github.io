@@ -39,7 +39,7 @@
   "changeEmailMenuItemText": "Change Email",
   "changePasswordMenuItemText": "Change Password",
   "deleteUserMenuItemText": "Delete User",
-  "changeFieldsMenuItemText": "Change Fields",
+  "changeFieldsMenuItemText": "Edit User",
   "removeMfaMenuItemText": "Remove MFA",
   "resendVerificationEmailMenuItemText": "Resend Verification Email",
   "resetPasswordMenuItemText": "Reset Password",
@@ -49,7 +49,7 @@
   "blockDialogMessage": "Do you really want to block {username}? After doing so the user will not be able to log in anymore.",
   "blockDialogTitle": "Block User?",
 
-  "createDialogTitle": "Create User",
+  "createDialogTitle": "Edit User",
 
   "deleteDialogMessage": "Do you really want to delete {username}? This will completely remove the user and cannot be undone.",
   "deleteDialogTitle": "Delete User?",
