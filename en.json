@@ -49,7 +49,7 @@
   "blockDialogMessage": "Do you really want to block {username}? After doing so the user will not be able to log in anymore.",
   "blockDialogTitle": "Block User?",
 
-  "createDialogTitle": "Edit User",
+  "createDialogTitle": "Create User",
 
   "deleteDialogMessage": "Do you really want to delete {username}? This will completely remove the user and cannot be undone.",
   "deleteDialogTitle": "Delete User?",
